@@ -1,9 +1,0 @@
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\bin\Debug\netcoreapp3.1\EmployeeRecords.EF.deps.json
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\bin\Debug\netcoreapp3.1\EmployeeRecords.EF.dll
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\bin\Debug\netcoreapp3.1\EmployeeRecords.EF.pdb
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\obj\Debug\netcoreapp3.1\EmployeeRecords.EF.AssemblyInfoInputs.cache
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\obj\Debug\netcoreapp3.1\EmployeeRecords.EF.AssemblyInfo.cs
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\obj\Debug\netcoreapp3.1\EmployeeRecords.EF.csproj.CoreCompileInputs.cache
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\obj\Debug\netcoreapp3.1\EmployeeRecords.EF.dll
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\obj\Debug\netcoreapp3.1\EmployeeRecords.EF.pdb
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.EF\obj\Debug\netcoreapp3.1\EmployeeRecords.EF.csproj.AssemblyReference.cache
