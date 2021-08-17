@@ -1,9 +1,0 @@
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\bin\Debug\netcoreapp3.1\EmployeeRecords.DBScript.deps.json
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\bin\Debug\netcoreapp3.1\EmployeeRecords.DBScript.dll
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\bin\Debug\netcoreapp3.1\EmployeeRecords.DBScript.pdb
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\obj\Debug\netcoreapp3.1\EmployeeRecords.DBScript.csproj.AssemblyReference.cache
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\obj\Debug\netcoreapp3.1\EmployeeRecords.DBScript.AssemblyInfoInputs.cache
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\obj\Debug\netcoreapp3.1\EmployeeRecords.DBScript.AssemblyInfo.cs
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\obj\Debug\netcoreapp3.1\EmployeeRecords.DBScript.csproj.CoreCompileInputs.cache
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\obj\Debug\netcoreapp3.1\EmployeeRecords.DBScript.dll
-C:\Users\WU356EN\Downloads\SampleApp\EmployeeRecords\EmployeeRecords.DBScript\obj\Debug\netcoreapp3.1\EmployeeRecords.DBScript.pdb
